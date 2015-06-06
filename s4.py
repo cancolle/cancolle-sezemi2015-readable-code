@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # file open
-recipe_data_txt_file = open('recipe-data.txt', 'r')
+recipe_data_txt_file = open('recipe-data2.txt', 'r')
 
 # insert txt data
 recipe_data_txt_data = recipe_data_txt_file.read()

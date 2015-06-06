@@ -46,3 +46,26 @@ recipe_data_txt_data -> レシピの内容のデータだとわかるよう、�
 ## 書き方について一言説明
 
 変数名が長くなっても良いので、その変数がなにを示すのかを明らかにすることを目的としました。
+
+# 仕様4
+
+## 作成したコード
+
+[https://github.com/cancolle/cancolle-sezemi2015-readable-code/blob/master/s4.py](https://github.com/cancolle/cancolle-sezemi2015-readable-code/blob/master/s4.py)
+
+## どうリーダブルか
+
+変数名に関して工夫。
+
+recipe_data_txt_file  -> 開いたレシピのテキストファイルを示す変数
+
+変数名が冗長的になってもいいので、ひと目で何を示すかわかるよう設定しました。
+
+recipe_data_txt_data -> レシピの内容のデータだとわかるよう、命名しました。
+
+当然ながらコメントも添えております。
+
+## 書き方について一言説明
+
+変数名が長くなっても良いので、その変数がなにを示すのかを明らかにすることを目的としました。
+仕様3と違いがないのは気にしないでください。
