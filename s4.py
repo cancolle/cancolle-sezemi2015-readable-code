@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# file open
+# file open(new data)
 recipe_data_txt_file = open('recipe-data2.txt', 'r')
 
 # insert txt data
